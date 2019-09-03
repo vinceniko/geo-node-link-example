@@ -1,4 +1,4 @@
-# Geo-Node-Link-Example
+# Geo Node-Link Example
 
 An example of how to use geographic data to create a node-link visualization with D3.js
 
