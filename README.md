@@ -12,13 +12,11 @@ I do not give permission to use this in any plagiaristic fashion for a similar a
 
 This was a school project for my Visualization class which asked to use the `Aid-Data` dataset to:
 
-```text
 Create an overview of the relationships between countries:
 
 1) Major donors and receivers and who they send to / receive from, respectively.
 
 2) Groups of countries that share similar behavior.
-```
 
 ## Explanation
 
