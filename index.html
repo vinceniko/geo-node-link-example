@@ -1,0 +1,40 @@
+<html>
+
+<head>
+  <style>
+    body {
+      font-family: Helvetica, Arial, sans-serif
+    }
+
+    h1 {
+      background-color: #2a5599;
+      color: white;
+      padding: 5px;
+    }
+
+    .mainView {
+      display: flex;
+      justify-content: center;
+    }
+  </style>
+
+  <script src="http://d3js.org/d3.v5.js"></script>
+
+</head>
+
+<body>
+  <div class="mainView">
+    <div class="chart">
+      <h2 style="margin: auto; width: 50%; text-align: center;"></h2>
+      <svg></svg>
+    </div>
+  </div>
+</body>
+
+<script type="module">
+  import { main } from "./main.js"
+
+  main()
+</script>
+
+</html>
